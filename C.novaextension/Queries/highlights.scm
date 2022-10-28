@@ -54,6 +54,10 @@
 (null) @value.null
 (number_literal) @value.number
 (char_literal) @value.entity
+(storage_class_specifier) @keyword.modifier
+(type_qualifier) @keyword.modifier
+(ms_call_modifier) @keyword.modifier
+(ms_pointer_modifier) @keyword.modifier
 
 (call_expression
   function: (identifier) @identifier.function)
