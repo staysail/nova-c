@@ -8,6 +8,7 @@
     
     <detectors>
         <extension priority="1.0">c</extension>
+        <extension priority="1.0">h</extension>
     </detectors>
     
     <indentation>
