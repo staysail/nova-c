@@ -2,7 +2,8 @@
     "identifier": "tech.staysail.C",
     "name": "C",
     "organization": "Staysail Systems",
-    "description": "Lorem ipsum, dolor sit amet.",
+    "description": "C language support.",
     "version": "1.0",
-    "categories": ["languages"]
+    "categories": ["languages"],
+    "repository": "https://github.com/staysail/nova-c",
 }
