@@ -1,0 +1,8 @@
+{
+    "identifier": "tech.staysail.C",
+    "name": "C",
+    "organization": "Staysail Systems",
+    "description": "Lorem ipsum, dolor sit amet.",
+    "version": "1.0",
+    "categories": ["languages"]
+}
