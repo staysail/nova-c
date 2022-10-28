@@ -4,7 +4,7 @@
 
 This supports the C11 variant of the language.
 
-![Screenshot](./images/extension/C.png)
+![Screenshot](./Images/extension/C.png)
 This is just the basics, and for full functionality should
 be paired with the clangd language server.
 
