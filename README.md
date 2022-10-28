@@ -13,12 +13,11 @@ be paired with the clangd language server.
 
 If you want to build this, you will need the tree-sitter-c
 repository, and will need to build the parser using the
-supplied Makefile.
+supplied compile.sh and Makefile.
 
-(Copy the Makefile into the tree-sitter-c directory, then
-do `make`.  The resulting .dylib file is what you need to
-have in the the `Syntaxes` directory.  The Makefile is the
-standard Makefile supplied by Panic.)
+1. git clone https://github.com/tree-sitter/tree-sitter-c
+2. ./compile.sh ./tree-sitter-c /Applications/Nova.app
+3. cp build/*.dylib ./Syntaxes
 
 ## Future Directions
 
