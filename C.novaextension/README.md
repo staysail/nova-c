@@ -4,7 +4,7 @@
 
 This supports the latest official (2018) edition of the C language.
 
-![](./Images/extension/C.png)
+![](https://raw.githubusercontent.com/staysail/nova-c/main/screenshot.png)
 This is just the basics, and for full functionality should
 be paired with the clangd language server.
 
