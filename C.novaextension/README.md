@@ -1,8 +1,11 @@
 # C Syntax for [Nova][1]
 
-**C** provides syntax highlighting and folding for [**C**][3] making use of [Tree-sitter][2].
+This extension provides syntax support for [**C**][2], making use of [Tree-sitter][3].
+It should be lightning-quick, thanks to Tree-sitter.
 
 This supports the latest official (2018) edition of the C language.
+
+Editor features supported are syntax highlighting, folding, and basic indentation.
 
 ![](https://raw.githubusercontent.com/staysail/nova-c/main/screenshot.png)
 
@@ -30,6 +33,6 @@ This extension currently does the best it can within the limitations of the capt
 provided by Nova.
 
 [1]: https://nova.app "Nova website"
-[2]: https://tree-sitter.github.io "Tree-sitter website"
-[3]: https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf "ISO C 2018"
+[2]: https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf "ISO C 2018"
+[3]: https://tree-sitter.github.io "Tree-sitter website"
 [4]: https://extensions.panic.com/extensions/au.id.benbeshara/au.id.benbeshara.cplusplus/ "ClangD Language Server Extension for Nova"

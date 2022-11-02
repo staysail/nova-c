@@ -3,8 +3,9 @@
     "name": "C",
     "organization": "Staysail Systems",
     "description": "C language support.",
-    "version": "1.1",
+    "version": "1.2",
     "categories": ["languages"],
     "repository": "https://github.com/staysail/nova-c",
-    "bugs": "https://github.com/staysail/nova-c/issues"
+    "bugs": "https://github.com/staysail/nova-c/issues",
+    "license": "MIT"
 }
