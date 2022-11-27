@@ -1,11 +1,12 @@
 {
-    "identifier": "tech.staysail.C",
-    "name": "C",
-    "organization": "Staysail Systems",
-    "description": "C language support.",
-    "version": "1.2",
-    "categories": ["languages"],
-    "repository": "https://github.com/staysail/nova-c",
-    "bugs": "https://github.com/staysail/nova-c/issues",
-    "license": "MIT"
+  "identifier": "tech.staysail.C",
+  "name": "C",
+  "organization": "Staysail Systems",
+  "description": "C language support.",
+  "version": "1.2.1",
+  "categories": ["languages"],
+  "repository": "https://github.com/staysail/nova-c",
+  "bugs": "https://github.com/staysail/nova-c/issues",
+  "license": "MIT",
+  "main": "main.js"
 }
